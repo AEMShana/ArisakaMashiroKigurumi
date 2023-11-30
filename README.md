@@ -1,2 +1,12 @@
 # ArisakaMashiroKigurumi
 Arisaka Mashiro Kigurumi 3D print Model
+
+**有坂真白 Kigurumi 头壳的3D打印模型**
+
+![](image/010.png)
+![](image/006.png)
+![](image/008.png)
+![](image/011.png)
+
+眼睛贴图在eyes.docx中。  
+The eyes texture is in `eyes.docx`.
