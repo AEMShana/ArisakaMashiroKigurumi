@@ -10,3 +10,6 @@ Arisaka Mashiro Kigurumi 3D print Model
 
 眼睛贴图在eyes.docx中。  
 The eyes texture is in `eyes.docx`.
+
+## 使用协议
+非商用即可，需要引用本仓库地址。
